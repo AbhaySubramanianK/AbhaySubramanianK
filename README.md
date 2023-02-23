@@ -4,15 +4,15 @@
 ![](https://img.shields.io/badge/<LightGBM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Regression>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Clustering>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<Supply Chain Analytics>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Supply_Chain_Analytics>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
-- 🔭 I’m currently working on being a better researcher with a perspective on real world examples
-- 🌱 I’m currently learning Information Retrieval Systems
-- 👯 I’m looking to collaborate on NLP
+- 🔭 I’m looking out for interesting work opportunities
+- 🌱 I’m currently learning Gaussian Regression on Multi-Arm Bandit problem
+- 👯 I’m looking to participate in hackathons and challenges
 - 🤔 I’m looking for help with how to become a better researcher!
-- 💬 Ask me about my course on ML System Design
-- 📫 How to reach me: <a href = "https://www.linkedin.com/in/hamzafarooq/">linkedin</a>
+- 💬 Ask me about my Master of Science in Business Analytics courses
+- 📫 Reach out to me on <a href = "https://www.linkedin.com/in/abhay-subramanian-kanagavelrajan-bb99a4148/">Linkedin</a>
 
 
 <!--
@@ -31,9 +31,6 @@ Here are some ideas to get you started:
 -->
 
 
-Data Science/ML is vast and growing at an exponential rate; 
-
-This github is my attempt to figure some of it and share my knowledge
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=streamlit-test-app)](https://github.com/hamzafarooq/streamlit-test-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=algos)](https://github.com/hamzafarooq/algos)
@@ -44,5 +41,5 @@ This github is my attempt to figure some of it and share my knowledge
 
 
 
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=hamzafarooq&show_icons=true&theme=radical)
+![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=AbhaySubramanianK&show_icons=true&theme=radical)
 
