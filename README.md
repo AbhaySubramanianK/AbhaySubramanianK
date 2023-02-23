@@ -1,10 +1,10 @@
 
 ## I set my daily goals only on Monday
-![](https://img.shields.io/badge/<GGG>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<XGB>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<LGBM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<Forecasting>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<NLP>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<LightGBM>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Regression>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Clustering>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Supply Chain Analytics>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 
 - 🔭 I’m currently working on being a better researcher with a perspective on real world examples
@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on NLP
 - 🤔 I’m looking for help with how to become a better researcher!
 - 💬 Ask me about my course on ML System Design
-- 📫 How to reach me: https://www.linkedin.com/in/hamzafarooq/
+- 📫 How to reach me: <a href = "https://www.linkedin.com/in/hamzafarooq/">linkedin</a>
 
 
 <!--
