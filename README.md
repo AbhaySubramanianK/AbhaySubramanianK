@@ -31,15 +31,5 @@ Here are some ideas to get you started:
 -->
 
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=streamlit-test-app)](https://github.com/hamzafarooq/streamlit-test-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=algos)](https://github.com/hamzafarooq/algos)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=DataStructures-Algo)](https://github.com/hamzafarooq/DataStructures-Algo)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=NLP-with-Python)](https://github.com/hamzafarooq/NLP-with-Python)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=pycaret)](https://github.com/hamzafarooq/pycaret)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hamzafarooq&repo=predicting_next_word_BERT)](https://github.com/hamzafarooq/predicting_next_word_BERT)
-
-
-
-![Hamza's github stats](https://github-readme-stats.vercel.app/api?username=AbhaySubramanianK&show_icons=true&theme=radical)
+![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=AbhaySubramanianK&show_icons=true&theme=radical)
 
